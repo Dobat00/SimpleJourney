@@ -1,2 +1,2 @@
 # EzCode
-Projeot de extensao
+Projeto de extensao.
