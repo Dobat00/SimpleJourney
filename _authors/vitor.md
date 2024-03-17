@@ -2,6 +2,7 @@
 short_name: Vitor Y
 name: Vitor Yuuki 
 position: Editor
+author_pic: /assets/images/vitor_pic.jpg 
 ---
 Vitor é aluno do 3⁠º ano de ciências da computação na UniFil
 <br>
