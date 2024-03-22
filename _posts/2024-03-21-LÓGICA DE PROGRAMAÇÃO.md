@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mendjy E
-imagem: /assets/images/javascript_logo.jpg
+imagem: /assets/images/programmer_logo.jpg
 ---
 
 A lógica de programação é a forma como são conduzidas as ações realizadas por algoritmos. Toda programação apresenta um encadeamento lógico para que os códigos descritos possam executar os comandos atribuídos. Nesse sentido, quem programa é responsável por compreender essa lógica e traduzi-la de forma eficiente para a máquina.
